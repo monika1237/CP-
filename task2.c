@@ -72,7 +72,7 @@ int main(){
 
     if (strcmp(word, wordBlanks) == 0){
      
-      printf("Congratulations! You won the game!\n");
+      printf("Congrats! You win!\n");
 
       break;
     }
